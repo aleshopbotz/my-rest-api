@@ -1,7 +1,7 @@
 const fs = require('fs')
 
 global.creator = 'Jack4You'// yourname
-global.MONGO_DB_URI = "mongodb+srv://ZakkStore:<password>@cluster0.xbcapay.mongodb.net/?retryWrites=true&w=majority" //database mongodb 
+global.MONGO_DB_URI = "mongodb+srv://ZakkStore:Zakk.Store70@cluster0.xbcapay.mongodb.net/?retryWrites=true&w=majority" //database mongodb 
 global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10" //isi apa aja bebas
 global.your_email = "zakkstore70@gmail.com" //email
 global.email_password = "" //application password email
